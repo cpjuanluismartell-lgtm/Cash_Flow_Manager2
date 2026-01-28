@@ -1,0 +1,5 @@
+{
+  "name": "Cash Flow Manager Pro v7",
+  "description": "A comprehensive application for managing cash flow, tracking transactions, scheduling future payments, and visualizing financial data through dashboards. Supports manual entry, importing from Excel/TXT, and uses AI to categorize transactions.",
+  "requestFramePermissions": []
+}
